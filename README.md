@@ -23,7 +23,7 @@ A | B  | S | C
 --------------
 
 ## WHAT I LEARNT
-1.Difference between "reg" and "wire"
-2.Using "display" and "module"
-3.Applied "and" and "xor" operators to generate sum and carry
-4.How to apply combinational logic 
+1. Difference between "reg" and "wire"
+2. Using "display" and "module"
+3. Applied "and" and "xor" operators to generate sum and carry
+4. How to apply combinational logic 
