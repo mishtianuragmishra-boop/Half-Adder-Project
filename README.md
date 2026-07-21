@@ -11,8 +11,19 @@ Sum=A ⊕ B
 Carry = A & B
 
 ## TRUTH TABLE
-A  B    S  C
-0  0    0  0
-0  1    1  0
-1  0    1  0
-1  1    0  1
+A | B  | S | C
+---------------
+0 | 0  | 0 | 0
+---------------
+0 | 1  | 1 | 0
+---------------
+1 | 0  | 1 | 0
+---------------
+1 | 1  | 0 | 1
+--------------
+
+## WHAT I LEARNT
+1.Difference between "reg" and "wire"
+2.Using "display" and "module"
+3.Applied "and" and "xor" operators to generate sum and carry
+4.How to apply combinational logic 
